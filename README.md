@@ -1,13 +1,20 @@
 <h1 align="center">Hi 👋, I'm Chetna Sikarwar</h1>
-<h3 align="center">Data Analyst | Machine Learning | Python | SQL</h3>
 
 <p align="center">
-📍 Indore, India | 📧 chetnasikarwar703@gmail.com
+<img src="https://readme-typing-svg.herokuapp.com?color=F75C7E&size=22&center=true&vCenter=true&width=500&lines=Data+Analyst;Machine+Learning+Enthusiast;Python+%7C+SQL+%7C+Data+Science" />
 </p>
 
 <p align="center">
-<a href="https://linkedin.com/in/chetna-sikarwar-590141262">LinkedIn</a> • 
-<a href="https://github.com/chetnasingh31">GitHub</a>
+📍 Indore, India • 📧 chetnasikarwar703@gmail.com  
+</p>
+
+<p align="center">
+<a href="https://linkedin.com/in/chetna-sikarwar-590141262">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+</a>
+<a href="https://github.com/chetnasingh31">
+<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
+</a>
 </p>
 
 ---
@@ -15,80 +22,86 @@
 ## 🧑‍💻 About Me
 
 * 🎓 B.Tech IT student at SGSITS Indore
-* 📊 Passionate about Data Analytics & Machine Learning
-* 🔍 Skilled in Data Cleaning, EDA & Data Validation
-* 📈 Love turning raw data into meaningful insights
-* 🚀 Building real-world data-driven projects
+* 📊 Data Analyst skilled in Python, SQL & Machine Learning
+* 🔍 Strong in Data Cleaning, EDA & Data Validation
+* 📈 Focused on real-world data-driven solutions
+* 🚀 Actively building impactful projects
 
 ---
 
-## 🛠 Tech Stack
+## ⚡ Tech Stack
 
-### 💻 Programming
+<p align="center">
 
-![Python](https://img.shields.io/badge/Python-yellow)
-![Java](https://img.shields.io/badge/Java-red)
-![C++](https://img.shields.io/badge/C++-blue)
-![SQL](https://img.shields.io/badge/SQL-orange)
+<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python" />
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=mysql" />
+<img src="https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java" />
+<img src="https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=c%2B%2B" />
 
-### 📊 Data Analytics & ML
+<br>
 
-![Pandas](https://img.shields.io/badge/Pandas-black)
-![NumPy](https://img.shields.io/badge/NumPy-blue)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-orange)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-green)
+<img src="https://img.shields.io/badge/Pandas-black?style=for-the-badge" />
+<img src="https://img.shields.io/badge/NumPy-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Scikit--learn-orange?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Machine%20Learning-green?style=for-the-badge" />
 
-### 📈 Visualization
+<br>
 
-![Tableau](https://img.shields.io/badge/Tableau-blue)
-![Power BI](https://img.shields.io/badge/PowerBI-yellow)
-![Excel](https://img.shields.io/badge/Excel-green)
+<img src="https://img.shields.io/badge/Tableau-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/PowerBI-yellow?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Excel-green?style=for-the-badge" />
 
-### 🌐 Web & Tools
+<br>
 
-![HTML](https://img.shields.io/badge/HTML-orange)
-![CSS](https://img.shields.io/badge/CSS-blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
-![Flask](https://img.shields.io/badge/Flask-black)
-![Git](https://img.shields.io/badge/Git-red)
+<img src="https://img.shields.io/badge/Flask-black?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Git-red?style=for-the-badge" />
+
+</p>
 
 ---
 
 ## 🚀 Projects
 
-### 🔹 AI Job Analyzer
+🔹 **AI Job Analyzer**
+→ NLP-based resume-job matching system
+→ TF-IDF + cosine similarity
+→ Skill gap detection
 
-* NLP-based system for resume-job matching
-* Used TF-IDF & cosine similarity
-* Skill gap analysis & recommendations
+🔹 **e-₹UPI Voucher System**
+→ Aadhaar-based validation
+→ Secure government fund usage
+→ Real-time tracking
 
-### 🔹 e-₹UPI Voucher System
+🔹 **QuickCourt**
+→ Sports booking platform
+→ OTP authentication
+→ Role-based dashboards
 
-* Aadhaar-based validation system
-* Secure government voucher distribution
-* Real-time tracking & reporting
-
-### 🔹 QuickCourt
-
-* Sports booking platform
-* OTP authentication & dashboards
-* Role-based access system
-
-### 🔹 Samudra Suraksha
-
-* Coastal safety monitoring system
-* Real-time alerts & analytics dashboard
+🔹 **Samudra Suraksha**
+→ Coastal monitoring system
+→ Real-time alerts & analytics
 
 ---
 
 ## 📊 GitHub Stats
 
-![Chetna's GitHub stats](https://github-readme-stats.vercel.app/api?username=chetnasingh31\&show_icons=true\&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chetnasingh31\&layout=compact\&theme=radical)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=chetnasingh31&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chetnasingh31&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
 ## 🔥 Streak Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=chetnasingh31\&theme=radical)
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=chetnasingh31&theme=tokyonight" />
+</p>
+
+---
+
+## 👀 Profile Views
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=chetnasingh31&label=Profile%20views&color=blue&style=flat" />
+</p>
