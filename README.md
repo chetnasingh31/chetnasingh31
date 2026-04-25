@@ -1,83 +1,72 @@
-<h1 align="center">Hi 👋, I'm Chetna Sikarwar</h1>
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Chetna%20Sikarwar&fontSize=40&fontColor=ffffff" />
+</p>
+
+<h3 align="center">Data Analyst | Machine Learning | Python | SQL</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Data+Analyst;Machine+Learning+Enthusiast;Python+%7C+SQL+%7C+Data+Science&center=true&width=500&height=45">
+📍 Indore, India • 📧 chetnasikarwar703@gmail.com  
 </p>
 
 <p align="center">
-📍 Indore, India &nbsp; | &nbsp; 📧 chetnasikarwar703@gmail.com
-</p>
-
-<p align="center">
-<a href="https://linkedin.com/in/chetna-sikarwar-590141262"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
-<a href="https://github.com/chetnasingh31"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"></a>
-</p>
-
----
-
-## 🧑‍💻 About Me
-
-* 🎓 B.Tech IT student at SGSITS Indore
-* 📊 Passionate about Data Analytics & Machine Learning
-* 🔍 Skilled in Data Cleaning, EDA & Data Validation
-* 📈 Love turning raw data into meaningful insights
-* 🚀 Focused on building real-world impactful projects
-
----
-
-## 🛠 Tech Stack
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,cpp,sql,r,aws,git,linux,html,css,js,flask">
+<a href="https://linkedin.com/in/chetna-sikarwar-590141262">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+</a>
+<a href="https://github.com/chetnasingh31">
+<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
+</a>
 </p>
 
 ---
 
-## 🚀 Projects
+## 🚀 About Me
 
-### 🔹 AI Job Analyzer
+<img align="right" width="250" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-* NLP-based resume-job matching system
-* TF-IDF & cosine similarity
-* Skill gap analysis
-
-### 🔹 e-₹UPI Voucher System
-
-* Aadhaar-based validation
-* Secure fund utilization
-* Real-time tracking
-
-### 🔹 QuickCourt
-
-* Sports booking platform
-* OTP authentication & dashboards
-
-### 🔹 Samudra Suraksha
-
-* Coastal safety monitoring system
-* Live alerts & analytics
+* 🎓 B.Tech IT @ SGSITS Indore
+* 📊 Data Analyst with Python & SQL
+* 🔍 Strong in EDA & Data Validation
+* 🤖 Exploring Machine Learning
+* 🚀 Building real-world impactful projects
 
 ---
 
-## 📊 GitHub Stats
+## ⚡ Tech Stack
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=chetnasingh31&show_icons=true&theme=tokyonight" height="160">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chetnasingh31&layout=compact&theme=tokyonight" height="160">
+
+<img src="https://skillicons.dev/icons?i=python,java,cpp,sql" /><br> <img src="https://skillicons.dev/icons?i=pandas,numpy,sklearn" /><br> <img src="https://skillicons.dev/icons?i=html,css,js,flask" /><br> <img src="https://skillicons.dev/icons?i=git,aws,mysql" />
+
 </p>
 
 ---
 
-## 🔥 Streak Stats
+## 📊 GitHub Dashboard
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=chetnasingh31&theme=tokyonight">
+<img src="https://github-readme-stats.vercel.app/api?username=chetnasingh31&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=chetnasingh31&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 👀 Profile Views
+## 📈 Top Languages
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=chetnasingh31&label=Profile%20views&color=0e75b6&style=flat">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chetnasingh31&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🚀 Projects Highlight
+
+🔹 **AI Job Analyzer** → NLP + Resume Matching
+🔹 **e-₹UPI System** → Govt Voucher Platform
+🔹 **QuickCourt** → Sports Booking App
+🔹 **Samudra Suraksha** → Safety Monitoring System
+
+---
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=chetnasingh31&color=blue&style=flat-square" />
 </p>
