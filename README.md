@@ -1,69 +1,44 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Chetna%20Sikarwar&fontSize=40&fontColor=ffffff" />
-</p>
-
-<h3 align="center">Data Analyst | Machine Learning | Python | SQL</h3>
-
-<p align="center">
-📍 Indore, India • 📧 chetnasikarwar703@gmail.com  
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=220&section=header&text=Chetna%20Sikarwar&fontSize=42&fontColor=ffffff" />
 </p>
 
 <p align="center">
-<a href="https://linkedin.com/in/chetna-sikarwar-590141262">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
-</a>
-<a href="https://github.com/chetnasingh31">
-<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
-</a>
+<img src="https://github-readme-stats.vercel.app/api?username=chetnasingh31&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=chetnasingh31&theme=tokyonight&hide_border=true&background=0D1117" width="48%" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chetnasingh31&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="50%" />
 </p>
 
 ---
 
-## 🚀 About Me
+## 👩‍💻 About Me
 
-<img align="right" width="250" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<img align="right" width="280" src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif"/>
 
-* 🎓 B.Tech IT @ SGSITS Indore
-* 📊 Data Analyst with Python & SQL
+* 🎓 B.Tech IT @ SGSITS
+* 📊 Data Analyst (Python | SQL | ML)
 * 🔍 Strong in EDA & Data Validation
-* 🤖 Exploring Machine Learning
 * 🚀 Building real-world impactful projects
+* 💡 Interested in AI & Data-driven systems
 
 ---
 
 ## ⚡ Tech Stack
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,java,cpp,sql" /><br> <img src="https://skillicons.dev/icons?i=pandas,numpy,sklearn" /><br> <img src="https://skillicons.dev/icons?i=html,css,js,flask" /><br> <img src="https://skillicons.dev/icons?i=git,aws,mysql" />
-
+<img src="https://skillicons.dev/icons?i=python,java,cpp,sql,js,html,css,flask,mysql,git,aws" />
 </p>
 
 ---
 
-## 📊 GitHub Dashboard
+## 🚀 Featured Projects
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=chetnasingh31&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=chetnasingh31&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 📈 Top Languages
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chetnasingh31&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🚀 Projects Highlight
-
-🔹 **AI Job Analyzer** → NLP + Resume Matching
-🔹 **e-₹UPI System** → Govt Voucher Platform
-🔹 **QuickCourt** → Sports Booking App
-🔹 **Samudra Suraksha** → Safety Monitoring System
+🔹 AI Job Analyzer (NLP + Resume Matching)
+🔹 e-₹UPI Voucher System (Govt Project)
+🔹 QuickCourt (Booking Platform)
+🔹 Samudra Suraksha (Monitoring System)
 
 ---
 
